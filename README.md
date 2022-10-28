@@ -1,0 +1,1 @@
+Exercises from Database I university course @ Politecnico di Torino. Mar 2018 - July 2018
